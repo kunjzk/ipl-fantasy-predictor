@@ -1,0 +1,160 @@
+IPL Player Name	Team	Foreigner(Y/N)	Error	Snapshot
+Ajinkya Rahane	CSK			37.5
+MS Dhoni	CSK			33.5
+Mustafizur Rahman	CSK	Y		74.5
+Rachin Ravindra	CSK	Y		78.5
+Ravindra Jadeja	CSK			73.5
+Ruturaj Gaikwad	CSK			59.5
+Shivam Dube	CSK			70.5
+Abishek Porel	DC			32
+Axar Patel	DC			60
+David Warner	DC	Y		82.5
+Kuldeep Yadav	DC			22.5
+Mitchell Marsh	DC	Y		45.5
+Rishabh Pant	DC			74
+Azmatullah Omarzai	GT	Y		54.5
+B. Sai Sudharsan	GT			68
+Mohit Sharma	GT			61
+Rashid Khan	GT	Y		82.5
+Shubman Gill	GT			81.5
+Umesh Yadav	GT			78.5
+Wriddhiman Saha	GT			50
+Andre Russell	KKR	Y		97
+Harshit Rana	KKR			38
+Phil Salt	KKR	Y		48
+Rinku Singh	KKR			30.5
+Sunil Narine	KKR	Y		126.5
+Varun Chakaravarthy	KKR			53.5
+Devdutt Padikkal	LSG			18
+K L Rahul	LSG			47.5
+Nicholas Pooran	LSG	Y		88
+Ravi Bishnoi	LSG			35
+Gerald Coetzee	MI	Y		50.5
+Hardik Pandya	MI			59
+Jasprit Bumrah	MI			65
+Naman Dhir	MI			30.5
+Rohit Sharma	MI			64.5
+Arshdeep Singh	PBKS			75
+Harpreet Brar	PBKS			61.5
+Harshal Patel	PBKS			58
+Jitesh Sharma	PBKS			49
+Liam Livingstone	PBKS	Y		33.5
+Prabhsimran Singh	PBKS			52.5
+Sam Curran	PBKS	Y		97
+Shikhar Dhawan	PBKS			66.5
+Anuj Rawat	RCB			35.5
+Cameron Green	RCB	Y		52
+Dinesh Karthik	RCB			42
+Faf du Plessis	RCB	Y		45.5
+Glenn Maxwell	RCB	Y		52
+Virat Kohli	RCB			124.5
+Dhruv Jurel	RR			21
+Ravichandran Ashwin	RR			42
+Riyan Parag	RR			103
+Sanju Samson	RR			107.5
+Yashasvi Jaiswal	RR			33.5
+Bhuvneshwar Kumar	SRH			60
+Heinrich Klaasen	SRH	Y		84.5
+Mayank Agarwal	SRH			23.5
+Mayank Markande	SRH			34.5
+T Natarajan	SRH			40.5
+Abhishek Sharma	SRH			100.5
+Khaleel Ahmed	DC			83
+Kagiso Rabada	PBKS	Y		81
+Quinton De Kock	LSG	Y		70.5
+Pat Cummins	SRH	Y		73
+Yash Dayal	RCB			71
+Nandre Burger	RR	Y		69
+Trent Boult	RR	Y		66
+Deepak Chahar	CSK			53
+Mohammed Siraj	RCB			61
+Tristan Stubbs	DC	Y		84
+Travis Head	SRH	Y		61.5
+Mayank Yadav	LSG			52
+Yuzvendra Chahal	RR			76
+Tushar Deshpande	CSK			71
+Jonny Bairstow	PBKS	Y		50.5
+N Tilak Varma	MI			51.5
+Naveen Ul Haq	LSG	Y		56.5
+Shashank Singh	PBKS			66
+Shahbaz Ahamad	SRH			51.5
+Matheesha Pathirana	CSK	Y		39.5
+Mitchell Starc	KKR	Y		46.5
+Ishant Sharma	DC			42
+Anrich Nortje	DC'	Y		49
+Aiden Markram	SRH	Y		34.5
+Noor Ahmad	GT	Y		52.5
+David Miller	GT	Y		32
+Krunal Pandya	LSG			54
+Mukesh Kumar	DC			30
+Daryl Mitchell	CSK	Y		40.5
+Jaydev Unadkat	SRH			43.5
+Mayank Dagar	RCB			33
+Venkatesh Iyer	KKR			29
+Avesh Khan	RR			40
+Mohsin Khan	LSG			28.5
+Ishan Kishan	MI			48.5
+Rahul Tewatia	GT			51.5
+Spencer Johnson	GT	Y		44.5
+Shreyas Iyer	KKR			34
+Mahipal Lomror	RCB			26.5
+Tim David	MI	Y		47
+Marcus Stoinis	LSG	Y		42.5
+Prithvi Shaw	DC			55
+Abdul Samad	SRH			37
+Vaibhav Arora	KKR			41.5
+Rajat Patidar	RCB			23
+Angkrish Raghuvanshi	KKR			34
+Sai Kishore	GT			22
+Alzarri Joseph	RCB	Y		21.5
+Piyush Chawla	MI			22.5
+Akash Madhwal	MI			28.5
+Ramandeep Singh	KKR			22.5
+Rahul Chahar	PBKS			17.5
+Maheesh Theekshana	CSK	Y		35.5
+M Siddharth	LSG			25.5
+Dewald Brevis	MI	Y		15.5
+Kwena Maphaka	MI	Y		15.5
+Sandeep Sharma	RR			15
+Jos Buttler	RR	Y		55.5
+Deepak Hooda	LSG			17
+Reece Topley	RCB	Y		30.5
+Darshan Nalkande	GT			26
+Yash Thakur	LSG			47.5
+Kane Williamson	GT	Y		12.5
+Vijay Shankar	GT			28.5
+Moeen Ali	CSK	Y		12
+Shai Hope	DC			12
+Ashutosh Sharma	PBKS			25.5
+Marco Jansen	SRH	Y		10
+Vyshak Vijay kumar	RCB			9.5
+Sameer Rizvi	CSK			9.5
+Romario Shepherd	MI	Y		37.5
+Karn Sharma	RCB			7.5
+Sumit Kumar	DC			7.5
+Anukul Roy	KKR			11
+Rasikh Dar	DC			7
+Shams Mulani	MI			7
+Nitish Kumar Reddy	SRH			45.5
+Rahul Tripathi	SRH			8.5
+Suyash Sharma	KKR			5.5
+Shimron Hetmyer	RR	Y		16
+Luke Wood	MI	Y		4
+Shubham Dubey	RR			2.5
+Nitish Rana	KKR			2.5
+Umran Malik	SRH			2
+Mukesh Choudhary	CSK			2
+Sikandar Raza	PBKS	Y		14
+Washington Sundar	SRH			1
+Ayush Badoni	LSG			11
+Jhye Richardson	DC	Y		8
+Saurav Chauhan	RCB			3.5
+BR Sharath	GT			2.5
+Mohammad Nabi	MI	Y		2.5
+Lalit Yadav	DC			1
+Shardul Thakur	CSK			3
+Kuldeep Sen	RR			17.5
+Shahrukh Khan	GT			6
+Keshav Maharaj	RR	Y		3
+Matthew Wade	GT	Y		2.5
+Abhinav Manohar	GT			2.5
