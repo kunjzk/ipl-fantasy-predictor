@@ -1,1 +1,4 @@
 black
+dash
+pandas
+dash-bootstrap-components
